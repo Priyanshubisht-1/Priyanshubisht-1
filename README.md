@@ -2,11 +2,7 @@
 <h3 align="center">Frontend Developer • Tech Enthusiast • BCA Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="coding gif"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshubisht-1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="coding gif"/>
 </p>
 
 ---
